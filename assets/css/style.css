@@ -1387,7 +1387,7 @@ section {
 
 .testimonials .testimonial-item .quote-icon-left,
 .testimonials .testimonial-item .quote-icon-right {
-  color: rgba(255, 255, 255, 0.4);
+  color: rgba(242, 238, 238, 0.932);
   font-size: 26px;
 }
 
@@ -1418,7 +1418,7 @@ section {
 .testimonials .swiper-pagination .swiper-pagination-bullet {
   width: 12px;
   height: 12px;
-  background-color: rgba(255, 255, 255, 0.5);
+  background-color: rgba(255, 255, 255, 0.99);
   opacity: 1;
 }
 
@@ -1636,7 +1636,7 @@ section {
 .reseña{
   padding: 20px;
   text-align: center;
-  color: #35322d;
+  color: #ebe8e2;
 }
 .reseña-ico{
   padding-right: 10px;
